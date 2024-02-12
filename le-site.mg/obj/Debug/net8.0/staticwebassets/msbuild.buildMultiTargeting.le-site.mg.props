@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\le-site.mg.props" />
+</Project>

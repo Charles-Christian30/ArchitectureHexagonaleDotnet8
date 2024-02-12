@@ -1,0 +1,17 @@
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\bin\Debug\net8.0\Mediateur.deps.json
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\bin\Debug\net8.0\Mediateur.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\bin\Debug\net8.0\Mediateur.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\bin\Debug\net8.0\Domaine.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\bin\Debug\net8.0\Repository.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\bin\Debug\net8.0\Domaine.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\bin\Debug\net8.0\Repository.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.csproj.AssemblyReference.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.GeneratedMSBuildEditorConfig.editorconfig
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.AssemblyInfoInputs.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.AssemblyInfo.cs
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.csproj.CoreCompileInputs.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.csproj.CopyComplete
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\refint\Mediateur.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\Mediateur.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Mediateur\obj\Debug\net8.0\ref\Mediateur.dll

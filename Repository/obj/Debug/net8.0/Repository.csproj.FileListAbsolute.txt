@@ -1,0 +1,15 @@
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\bin\Debug\net8.0\Repository.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\bin\Debug\net8.0\Repository.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\bin\Debug\net8.0\Domaine.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\bin\Debug\net8.0\Domaine.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\Repository.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Repository\obj\Debug\net8.0\ref\Repository.dll

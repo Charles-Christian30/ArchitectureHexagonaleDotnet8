@@ -1,0 +1,14 @@
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\bin\Debug\net8.0\Domaine.deps.json
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\bin\Debug\net8.0\Domaine.runtimeconfig.json
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\bin\Debug\net8.0\Domaine.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\bin\Debug\net8.0\Domaine.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.csproj.AssemblyReference.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.AssemblyInfoInputs.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.AssemblyInfo.cs
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.csproj.CoreCompileInputs.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\refint\Domaine.dll
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.pdb
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\Domaine.genruntimeconfig.cache
+D:\Architecture\exercices dotnet 8\le-site.mg\Domaine\obj\Debug\net8.0\ref\Domaine.dll
